@@ -2,7 +2,7 @@
 // git showcase
 
 function printFunction() {
-    console.log('Hello World');
+    console.log('Bye World');
 }
 
 a = 1;
