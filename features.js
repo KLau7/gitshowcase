@@ -5,4 +5,4 @@ function printFunction() {
     console.log('Bye World');
 }
 
-a = 3;
+a = 1;
